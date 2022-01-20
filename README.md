@@ -9,4 +9,4 @@ Authors:
 
 Github Project Link:
 
-- https://github.com/frands97/accidents_machine_learning.git
+- https://github.com/algoriv92/accidents_machine_learning.git
